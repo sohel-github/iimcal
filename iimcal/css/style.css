@@ -1,0 +1,156 @@
+#header-1{
+	background:#50545d;
+	width:100%;
+}
+
+#top_link{
+	margin-top:12px;
+}
+
+#top_link a:link{
+	text-decoration:none;
+	margin: 12px;
+	color:#fff;
+	font:13px Tahoma;
+}
+
+#top_link a:visited{
+	color:#fff;
+	font:13px Tahoma;
+}
+
+#top_link a:hover{
+	color:yellow;
+}
+
+#search_field{
+	width:200px;
+	border:1px solid #535760;
+	height:30px;
+}
+
+#login{
+	width:70px;
+	height:30px;
+	border:1px solid #535760;
+	font:13px Tahoma;
+}
+
+/*====================================================== 
+====================================================== */
+
+#header-2{
+	background:-moz-linear-gradient(top,#7948b6,#683e9c,#53317e);
+	width:100%;
+}
+
+#ins_name{
+	text-align:center;
+	color:#fff;
+	font:23px Arial;
+	padding:15px;
+}
+
+#logo{
+	position:absolute;
+	top:0;
+	box-shadow:1px 1px 4px #000;
+	-moz-box-shadow:1px 1px 4px #000;
+	-webkit-box-shadow:1px 1px 4px #000;
+	-ms-box-shadow:1px 1px 4px #000;
+	z-index:1000;
+}
+
+#logo_xs{
+	box-shadow:1px 1px 4px #000;
+	-moz-box-shadow:1px 1px 4px #000;
+	-webkit-box-shadow:1px 1px 4px #000;
+	-ms-box-shadow:1px 1px 4px #000;
+}
+
+#header-menu{
+	background:#80858b;
+	width:100%;
+}
+
+#custom_menu ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	margin-left:280px;
+}
+
+#custom_menu ul a:link{
+	float:left;
+	padding:15px;
+	color:#fff;
+	text-decoration:none;
+	font:13px Tahoma;
+}
+
+#custom_menu ul a:visited{
+	color:#fff;
+	font:13px Tahoma;
+}
+
+#custom_menu ul a:hover{
+	color:yellow;
+	text-decoration:none;
+}
+
+.carousel-control.left{
+	background:none;
+}
+
+.carousel-control.right{
+	background:none;
+}
+
+.carousel-caption{
+	background:#1d1d1d;
+	opacity:.7;
+	color:#fff;
+}
+
+.demo1{
+	list-style:none;
+}
+
+.demo1 p{
+	font:12px Arial;
+	line-height:1.7em;
+}
+
+.demo1 .more{
+	text-align:right;
+}
+
+.demo2{
+	list-style:none;
+}
+
+.demo2 p{
+	font:12px Arial;
+	line-height:1.7em;
+}
+
+.demo2 .more{
+	text-align:right;
+}
+
+.demo3{
+	list-style:none;
+}
+
+.demo3 p{
+	font:12px Arial;
+	line-height:1.7em;
+}
+
+.demo3 .more{
+	text-align:right;
+}
+
+
+
+
